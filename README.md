@@ -113,8 +113,8 @@ Link the Bootstrap JavaScript file at the end of the body.
 # CODE: 10(b)
 
 ```
-DEVELOPED BY:Anbuselvan.S
-REGISTER NO:212223240008
+DEVELOPED BY:SRIVATSAN V
+REGISTER NO:212223110053
 
 <!DOCTYPE html>
 <html>
@@ -175,8 +175,8 @@ Add a script to handle the form validation on submit.
 
 # CODE: 10(c)
 ```
-DEVELOPED BY:Anbuselvan.S
-REGISTER NO:212223240008
+DEVELOPED BY:SRIVATSAN V
+REGISTER NO:212223110053
 
 <!DOCTYPE html>
 <html>
@@ -247,8 +247,8 @@ Add a script to handle the form validation on submit.
 
 # CODE: 10(d)
 ```
-DEVELOPED BY:Anbuselvan.S
-REGISTER NO:212223240008
+DEVELOPED BY:SRIVATSAN V
+REGISTER NO:212223110053
 
 <!DOCTYPE html>
 <html>
